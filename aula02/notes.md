@@ -15,3 +15,5 @@
 **row-wrap**: quebra automática a cada soma de 12 colunas.
 
 **div.row>div.col*5**
+
+Evitar colocar dentro do col classes que mudem o tamanho dele.
